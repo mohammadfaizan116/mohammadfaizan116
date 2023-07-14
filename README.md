@@ -13,8 +13,14 @@ Driven by my curiosity and a desire to delve deeper into data-driven decision-ma
 <h3>YouTuber and Content Creation:</h3>
 In addition to my passion for data analytics, I have also cultivated a love for content creation, specifically on YouTube. As a YouTuber, I create engaging and informative videos. I believe in sharing my knowledge and experiences to inspire and educate others who are interested in these fields. Through my YouTube channel, I have built a supportive community and gained valuable experience in video editing, content marketing, and audience engagement.
 
-<h3>Future Goals:</h3>
-My future goals revolve around merging my expertise in data analytics with my passion for content creation. I aim to create insightful and educational content that bridges the gap between complex data concepts and everyday applications. I aspire to be a trusted resource for aspiring data professionals, providing valuable tutorials, industry insights, and thought leadership.</b>
+<h3>Where Companies Are Today</h3>
+Companies are investing in digital marketing tactics as a result of their growing awareness of the value of data-driven decision-making in the current business environment. In order to generate actionable insights, many organisations struggle to effectively collect, analyse, and use data. Professionals that can bridge the gap between digital marketing and data analysis are increasingly in demand because they help businesses make wise decisions and expand their operations.</b>
+
+<h3>Where Companies Want to Be in the Future:</h3>
+<b>Businesses strive to develop into data-driven organizations that use digital marketing techniques to successfully interact and reach their target market. They aim to improve client acquisition and retention, optimize their marketing strategies, and boost ROI. Businesses want to build a solid data infrastructure, use cutting-edge analytics methods and include data-driven decision-making into their overarching business plan.</b>
+
+<h3>How I Can Help:</h3>
+<b>As a digital marketer and data analyst, I am qualified to assist businesses in bridging the information, marketing, and business strategy gaps. I can offer insights that drive targeted marketing efforts, optimize customer acquisition and conversion rates, and boost overall marketing effectiveness by utilizing my knowledge in digital marketing and data analysis. I can assist businesses in utilizing all the potential of their data, making data-driven decisions, and achieving their objectives through the use of advanced analytics techniques, data visualization, and strategic advice.</b>
 
 <h2>Skills</h2>
 <b>Programming Languages: C++, Python, Java <br>
@@ -55,6 +61,12 @@ Generated leads through gated content resulting in a 15% conversion rate. <br>
 <b>-Managed a marketing budget of $200,000, optimizing spend and delivering measurable ROI. <br>
 -Stayed updated with industry trends, emerging technologies, and best practices in digital marketing.</b>
 
+  <h2>Education</h2>
+  <b>
+    Bachelors Of Technology (IT) From Jamia Hamdard University, New Delhi, India (2016) <br>
+    Data Analytics For Business Decision Making From Durham College, Oshawa (2023)
+  </b>
+  
 <h2>Certifications</h2>
 
 - <b>Data Analytics (Google)</b>
@@ -63,12 +75,7 @@ Generated leads through gated content resulting in a 15% conversion rate. <br>
   - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/B943AGUZFHVN)
 - <b>Digital Marketing (Tech Mahindra)</b>
 
-<h2>Education</h2>
-  <b>
-    Bachelors Of Technology (IT) From Jamia Hamdard University, New Delhi, India (2016) <br>
-    Data Analytics For Business Decision Making From Durham College, Oshawa (2023)
-  </b>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 Phone: 289 688 6880 <br>
 Email: mohammadfaizan116@gmail.com <br>
