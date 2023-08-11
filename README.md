@@ -75,6 +75,8 @@ Generated leads through gated content resulting in a 15% conversion rate. <br>
   - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/B943AGUZFHVN)
 - <b>Digital Marketing (Tech Mahindra)</b>
 
+![Career path example (project management)](https://github.com/mohammadfaizan116/mohammadfaizan116/assets/136765058/39242e4b-596e-40a9-974e-9f0bdd340d54)
+
 
 <h2>Connect with me:</h2>
 Phone: 289 688 6880 <br>
